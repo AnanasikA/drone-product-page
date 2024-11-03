@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/drone-product-page/static/css/main.3b558ce1.css",
+    "main.js": "/drone-product-page/static/js/main.37c3d278.js",
+    "static/js/453.7ee4257d.chunk.js": "/drone-product-page/static/js/453.7ee4257d.chunk.js",
+    "index.html": "/drone-product-page/index.html",
+    "main.3b558ce1.css.map": "/drone-product-page/static/css/main.3b558ce1.css.map",
+    "main.37c3d278.js.map": "/drone-product-page/static/js/main.37c3d278.js.map",
+    "453.7ee4257d.chunk.js.map": "/drone-product-page/static/js/453.7ee4257d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b558ce1.css",
+    "static/js/main.37c3d278.js"
+  ]
+}
