@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/drone-product-page/static/css/main.3b558ce1.css",
-    "main.js": "/drone-product-page/static/js/main.37c3d278.js",
+    "main.css": "/drone-product-page/static/css/main.55fe3998.css",
+    "main.js": "/drone-product-page/static/js/main.eb57879e.js",
     "static/js/453.7ee4257d.chunk.js": "/drone-product-page/static/js/453.7ee4257d.chunk.js",
     "index.html": "/drone-product-page/index.html",
-    "main.3b558ce1.css.map": "/drone-product-page/static/css/main.3b558ce1.css.map",
-    "main.37c3d278.js.map": "/drone-product-page/static/js/main.37c3d278.js.map",
+    "main.55fe3998.css.map": "/drone-product-page/static/css/main.55fe3998.css.map",
+    "main.eb57879e.js.map": "/drone-product-page/static/js/main.eb57879e.js.map",
     "453.7ee4257d.chunk.js.map": "/drone-product-page/static/js/453.7ee4257d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b558ce1.css",
-    "static/js/main.37c3d278.js"
+    "static/css/main.55fe3998.css",
+    "static/js/main.eb57879e.js"
   ]
 }
