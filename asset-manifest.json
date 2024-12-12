@@ -1,15 +1,27 @@
 {
   "files": {
-    "main.css": "/drone-product-page/static/css/main.55fe3998.css",
-    "main.js": "/drone-product-page/static/js/main.eb57879e.js",
+    "main.css": "/drone-product-page/static/css/main.2417eb94.css",
+    "main.js": "/drone-product-page/static/js/main.b7fdf86b.js",
+    "static/js/645.a7138cc1.chunk.js": "/drone-product-page/static/js/645.a7138cc1.chunk.js",
+    "static/js/764.6b8f4634.chunk.js": "/drone-product-page/static/js/764.6b8f4634.chunk.js",
+    "static/js/435.0e1582f3.chunk.js": "/drone-product-page/static/js/435.0e1582f3.chunk.js",
     "static/js/453.7ee4257d.chunk.js": "/drone-product-page/static/js/453.7ee4257d.chunk.js",
+    "static/media/retirement-planning.png": "/drone-product-page/static/media/retirement-planning.f47e7a27ea7ec08f91d1.png",
+    "static/media/risk-management.png": "/drone-product-page/static/media/risk-management.d0b3d107d7ff68656c01.png",
+    "static/media/budget-planning.png": "/drone-product-page/static/media/budget-planning.4956c1043c0bac847873.png",
+    "static/media/investment-advice.png": "/drone-product-page/static/media/investment-advice.a857765aa91085ce9d91.png",
+    "static/media/credit-advice.png": "/drone-product-page/static/media/credit-advice.f78b3878eacb8ef06e87.png",
+    "static/media/tax-optimization.png": "/drone-product-page/static/media/tax-optimization.7158b6db40e820e38302.png",
     "index.html": "/drone-product-page/index.html",
-    "main.55fe3998.css.map": "/drone-product-page/static/css/main.55fe3998.css.map",
-    "main.eb57879e.js.map": "/drone-product-page/static/js/main.eb57879e.js.map",
+    "main.2417eb94.css.map": "/drone-product-page/static/css/main.2417eb94.css.map",
+    "main.b7fdf86b.js.map": "/drone-product-page/static/js/main.b7fdf86b.js.map",
+    "645.a7138cc1.chunk.js.map": "/drone-product-page/static/js/645.a7138cc1.chunk.js.map",
+    "764.6b8f4634.chunk.js.map": "/drone-product-page/static/js/764.6b8f4634.chunk.js.map",
+    "435.0e1582f3.chunk.js.map": "/drone-product-page/static/js/435.0e1582f3.chunk.js.map",
     "453.7ee4257d.chunk.js.map": "/drone-product-page/static/js/453.7ee4257d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.55fe3998.css",
-    "static/js/main.eb57879e.js"
+    "static/css/main.2417eb94.css",
+    "static/js/main.b7fdf86b.js"
   ]
 }
