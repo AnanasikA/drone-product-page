@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/drone-product-page/static/css/main.2417eb94.css",
-    "main.js": "/drone-product-page/static/js/main.b7fdf86b.js",
+    "main.js": "/drone-product-page/static/js/main.7d2744ce.js",
     "static/js/645.a7138cc1.chunk.js": "/drone-product-page/static/js/645.a7138cc1.chunk.js",
     "static/js/764.6b8f4634.chunk.js": "/drone-product-page/static/js/764.6b8f4634.chunk.js",
     "static/js/435.0e1582f3.chunk.js": "/drone-product-page/static/js/435.0e1582f3.chunk.js",
@@ -14,7 +14,7 @@
     "static/media/tax-optimization.png": "/drone-product-page/static/media/tax-optimization.7158b6db40e820e38302.png",
     "index.html": "/drone-product-page/index.html",
     "main.2417eb94.css.map": "/drone-product-page/static/css/main.2417eb94.css.map",
-    "main.b7fdf86b.js.map": "/drone-product-page/static/js/main.b7fdf86b.js.map",
+    "main.7d2744ce.js.map": "/drone-product-page/static/js/main.7d2744ce.js.map",
     "645.a7138cc1.chunk.js.map": "/drone-product-page/static/js/645.a7138cc1.chunk.js.map",
     "764.6b8f4634.chunk.js.map": "/drone-product-page/static/js/764.6b8f4634.chunk.js.map",
     "435.0e1582f3.chunk.js.map": "/drone-product-page/static/js/435.0e1582f3.chunk.js.map",
@@ -22,6 +22,6 @@
   },
   "entrypoints": [
     "static/css/main.2417eb94.css",
-    "static/js/main.b7fdf86b.js"
+    "static/js/main.7d2744ce.js"
   ]
 }
